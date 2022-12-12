@@ -1,0 +1,138 @@
+/*this is to comment*/
+body {
+    background-color: brown;
+    position: absolute;
+    width: 1280px;
+    height: 832px;
+    left: 0px;
+    top: 0px;
+
+    background: #C72D2D;
+
+
+
+/*color: #FFFFFF;*/
+
+}
+h1{
+
+position: absolute;
+width: 646px;
+height: 167px;
+left: 72px;
+top: 312px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+color: #FFFFFF;
+
+}
+
+h2{
+    position: absolute;
+    width: 608px;
+    height: 85px;
+    left: 81px;
+    top: 494px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 5;
+}
+
+/*.item{
+    height: 100px;
+    border: 1px solid black;
+}*/
+
+p1{
+    font-family: 'Lato';
+    font-style: normal;
+}
+
+h3{
+
+    position: absolute;
+    width: 140px;
+    height: 30px;
+    left: 32px;
+    top: 780px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #1E1E1E;
+    
+}
+
+h4{
+position: absolute;
+width: 140px;
+height: 30px;
+left: 274px;
+top: 780px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+h5{
+position: absolute;
+width: 190px;
+height: 24px;
+left: 583px;
+top: 780px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+/*h6{
+position: absolute;
+width: 143px;
+height: 18px;
+left: 855px;
+top: 780px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}*/
+.grid-item { width: 25%; }
+.grid-item--width2 { width: 50%; }
+
+li a{
+    font-family: 'Lato';
+}
